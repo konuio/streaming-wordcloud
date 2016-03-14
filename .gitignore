@@ -1,3 +1,11 @@
+# Twitter
+twitter4j.properties
+
+# IntelliJ
 *.iml
-/target
-*.idea
+.idea
+
+# Output
+derby.log
+metastore_db
+target

@@ -1,0 +1,15 @@
+Spark's
+primary
+abstraction
+is
+a
+distributed
+collection
+of
+items
+called
+a
+Resilient
+Distributed
+Dataset
+(RDD).
